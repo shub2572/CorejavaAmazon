@@ -1,0 +1,20 @@
+how jsp and servlet works :
+
+
+ a servlet is called when the web server recieves a request from user via jsp. once a servlet is loaded a servlet object (instance ) is created to 
+ secceding the given requests 
+ iot contains the three part in servlet life cycle 
+ 1    init ( to start server first time or start at forst request )
+ 2     service ( for service request and response and for further processing )
+ 3      destroy() ( it can destroy or disconnect the server when it finished the processing of requesr and response)
+  
+  
+
+
+
+
+
+
+a scriptlet contains th java code which is used to write java logical code in jsp( "java server pages  " );
+
+ 
